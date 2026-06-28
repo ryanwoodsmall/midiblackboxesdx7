@@ -810,3 +810,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | MARACAS    | GAMELAN 2  |
 | SAMBA WHS. | TOMSWEEP   |
 | ACMESIREN  | BOINGO     |
+
+### more
+
+- https://sounds-for-synths.com/jexus-synth-patches/
