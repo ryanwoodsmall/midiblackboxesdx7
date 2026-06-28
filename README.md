@@ -190,7 +190,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | B.DRM-SNAR | ST.HELENS  |
 | E.P-BRS BC | EXPLOSION  |
 
-## VRC101A Keyboard, Plucked & Tuned Perc.
+## Voice ROM VRC101A Keyboard, Plucked & Tuned Perc.
 
 [patches/dx7/vrc/vrc101a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc101a.syx)
 
@@ -213,7 +213,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | CLAVI. 2   | E.BASS 2   |
 | CLAVI. 3   | E.BASS 3   |
 
-## VRC101B Keyboard, Plucked & Tuned Perc.
+## Voice ROM VRC101B Keyboard, Plucked & Tuned Perc.
 
 [patches/dx7/vrc/vrc101b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc101b.syx)
 
@@ -236,7 +236,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | BAMBOO MAR | HANDBELL 1 |
 | KARIMBA    | HANDBELL 2 |
 
-## VRC102A Wind Instrument
+## Voice ROM VRC102A Wind Instrument
 
 [patches/dx7/vrc/vrc102a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc102a.syx)
 
@@ -259,7 +259,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | BASSOON 1  | TRUMPET 5  |
 | BASSOON 2  | TRUMPET 6  |
 
-## VRC102B Wind Instrument
+## Voice ROM VRC102B Wind Instrument
 
 [patches/dx7/vrc/vrc102b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc102b.syx)
 
@@ -282,7 +282,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | QUENA      | WIND ENS.1 |
 | BAMBOO FL. | WIND ENS.2 |
 
-## VRC103A Sustain
+## Voice ROM VRC103A Sustain
 
 [patches/dx7/vrc/vrc103a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc103a.syx)
 
@@ -305,7 +305,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | STRINGS 8  | F. VOICE 3 |
 | STRINGS 9  | F. VOICE 4 |
 
-## VRC103B Sustain
+## Voice ROM VRC103B Sustain
 
 [patches/dx7/vrc/vrc103b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc103b.syx)
 
@@ -328,7 +328,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | WHISTLE 1  | PIPE ORG.4 |
 | WHISTLE 2  | PIPE ORG.5 |
 
-## VRC104A Percussion
+## Voice ROM VRC104A Percussion
 
 [patches/dx7/vrc/vrc104a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc104a.syx)
 
@@ -351,7 +351,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | TIMBALES 1 | CASTANET 1 |
 | TIMBALES 2 | CASTANET 2 |
 
-## VRC104B Percussion
+## Voice ROM VRC104B Percussion
 
 [patches/dx7/vrc/vrc104b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc104b.syx)
 
@@ -374,7 +374,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | COW BELL 2 | SYN.PERC.8 |
 | COW BELL 3 | SYN.PERC.9 |
 
-## VRC105A Sound Effect
+## Voice ROM VRC105A Sound Effect
 
 [patches/dx7/vrc/vrc105a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc105a.syx)
 
@@ -397,7 +397,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | MAC.GUN 2  | PI.PO.PA.  |
 | MOBILE 1   | ALARM!     |
 
-## VRC105B Sound Effect
+## Voice ROM VRC105B Sound Effect
 
 [patches/dx7/vrc/vrc105b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc105b.syx)
 
@@ -420,7 +420,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | TEMP.BELL1 | IMAGE 13   |
 | TEMP.BELL2 | IMAGE 14   |
 
-## VRC106A Synthesizer
+## Voice ROM VRC106A Synthesizer
 
 [patches/dx7/vrc/vrc106a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc106a.syx)
 
@@ -443,7 +443,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | SYN.BRA. 2 | SYN.LEAD 5 |
 | SYN.BRA. 3 | SYN.LEAD 6 |
 
-## VRC106B Synthesizer
+## Voice ROM VRC106B Synthesizer
 
 [patches/dx7/vrc/vrc106b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc106b.syx)
 
@@ -466,7 +466,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | SYN.ORG. 5 | SYN.GLOC.3 |
 | SYN.ORG. 6 | SYN.GLOC.4 |
 
-## VRC107A David Bristow Selection
+## Voice ROM VRC107A David Bristow Selection
 
 [patches/dx7/vrc/vrc107a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc107a.syx)
 
@@ -489,7 +489,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | &LT;FM&GT;ALOG 2 | MAGIGLOKKK     |
 | &LT;FM&GT;ALOG 3 | MAGIVYBE       |
 
-## VRC107B David Bristow Selection
+## Voice ROM VRC107B David Bristow Selection
 
 [patches/dx7/vrc/vrc107b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc107b.syx)
 
@@ -512,7 +512,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | TOUCHBEND        | HANDRUM               |
 | BELL&LT;WAHH&GT; | CONGADRUM             |
 
-## VRC108A Gary Leuenberger Selection
+## Voice ROM VRC108A Gary Leuenberger Selection
 
 [patches/dx7/vrc/vrc108a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc108a.syx)
 
@@ -535,7 +535,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | GOOD-VIBES | TOUCHORG-2 |
 | ANALOG-DX7 | FM-GROWTH  |
 
-## VRC108B Gary Leuenberger Selection
+## Voice ROM VRC108B Gary Leuenberger Selection
 
 [patches/dx7/vrc/vrc108b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc108b.syx)
 
@@ -558,7 +558,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | CHORUSRING | FM~TEAPOT  |
 | EMERSYNTH  | TAPEREWIND |
 
-## VRC109A Studio 64
+## Voice ROM VRC109A Studio 64
 
 [patches/dx7/vrc/vrc109a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc109a.syx)
 
@@ -581,7 +581,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | GLOCK-BOX  | SYN.BASS A |
 | SYNTH CLIC | SYN.BASS B |
 
-## VRC109B Studio 64
+## Voice ROM VRC109B Studio 64
 
 [patches/dx7/vrc/vrc109b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc109b.syx)
 
@@ -604,7 +604,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | DX-TROMBA  | UP UP AWAY |
 | D.QUART-ST | ANGEL FALL |
 
-## VRC110A Bo Tomlyn Selection
+## Voice ROM VRC110A Bo Tomlyn Selection
 
 [patches/dx7/vrc/vrc110a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc110a.syx)
 
@@ -627,7 +627,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | XYLOHRDWD  | CHINEZBLS  |
 | TORIMLONG  | ELECBASS*  |
 
-## VRC110B Bo Tomlyn Selection
+## Voice ROM VRC110B Bo Tomlyn Selection
 
 [patches/dx7/vrc/vrc110b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc110b.syx)
 
@@ -650,7 +650,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | SACURU     | TAPEREWND2 |
 | SWISHBELL  | (A) -{440} |
 
-## VRC111A Bo Tomlyn Selection II
+## Voice ROM VRC111A Bo Tomlyn Selection II
 
 [patches/dx7/vrc/vrc111a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc111a.syx)
 
@@ -673,7 +673,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | NOBOKUTO1  | XPRMNTLBEL |
 | MUTRONCLV  | LONG GONG  |
 
-## VRC111B Bo Tomlyn Selection II
+## Voice ROM VRC111B Bo Tomlyn Selection II
 
 [patches/dx7/vrc/vrc111b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc111b.syx)
 
@@ -696,7 +696,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | STRSWEEP   | DROPVOLUM  |
 | SMRNPAREE  | LASERFALL  |
 
-## VRC112A Live 64 - Akira Inoue
+## Voice ROM VRC112A Live 64 - Akira Inoue
 
 [patches/dx7/vrc/vrc112a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc112a.syx)
 
@@ -719,7 +719,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 | PACHICHORD | SPACE-TRIP |
 | NO.40      | SPACECHIME |
 
-## VRC112B Live 64 - Akira Inoue
+## Voice ROM VRC112B Live 64 - Akira Inoue
 
 [patches/dx7/vrc/vrc112b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc112b.syx)
 
