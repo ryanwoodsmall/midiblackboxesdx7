@@ -8,7 +8,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## Factory ROM1A Master (EU/JP)
 
-[rom1a.syx](patches/dx7/factory/rom1a.syx)
+[rom1a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/factory/rom1a.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -31,7 +31,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## Factory ROM1B Keyboard & Plucked
 
-[rom1b.syx](patches/dx7/factory/rom1b.syx)
+[rom1b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/factory/rom1b.syx)
 
 | 1-16       | 17-32     |
 | ---        | ---       |
@@ -54,7 +54,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## Factory ROM2A Orchestral & Percussive
 
-[rom2a.syx](patches/dx7/factory/rom2a.syx)
+[rom2a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/factory/rom2a.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -77,7 +77,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## Factory ROM2B Synth, Complex & Effects
 
-[rom2b.syx](patches/dx7/factory/rom2b.syx)
+[rom2b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/factory/rom2b.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -100,7 +100,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## Factory ROM3A Master (US)
 
-[rom3a.syx](patches/dx7/factory/rom3a.syx)
+[rom3a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/factory/rom3a.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -123,7 +123,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## Factory ROM3B Keyboard & Plucked
 
-[rom3b.syx](patches/dx7/factory/rom3b.syx)
+[rom3b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/factory/rom3b.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -146,7 +146,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## Factory ROM4A Orchestral & Percussive
 
-[rom4a.syx](patches/dx7/factory/rom4a.syx)
+[rom4a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/factory/rom4a.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -169,7 +169,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## Factory ROM4B Synth, Complex & Effects
 
-[rom4b.syx](patches/dx7/factory/rom4b.syx)
+[rom4b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/factory/rom4b.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -192,7 +192,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC101A Keyboard, Plucked & Tuned Perc.
 
-[vrc101a.syx](patches/dx7/vrc/vrc101a.syx)
+[vrc101a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc101a.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -215,7 +215,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC101B Keyboard, Plucked & Tuned Perc.
 
-[vrc101b.syx](patches/dx7/vrc/vrc101b.syx)
+[vrc101b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc101b.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -238,7 +238,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC102A Wind Instrument
 
-[vrc102a.syx](patches/dx7/vrc/vrc102a.syx)
+[vrc102a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc102a.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -261,7 +261,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC102B Wind Instrument
 
-[vrc102b.syx](patches/dx7/vrc/vrc102b.syx)
+[vrc102b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc102b.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -284,7 +284,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC103A Sustain
 
-[vrc103a.syx](patches/dx7/vrc/vrc103a.syx)
+[vrc103a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc103a.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -307,7 +307,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC103B Sustain
 
-[vrc103b.syx](patches/dx7/vrc/vrc103b.syx)
+[vrc103b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc103b.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -330,7 +330,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC104A Percussion
 
-[vrc104a.syx](patches/dx7/vrc/vrc104a.syx)
+[vrc104a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc104a.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -353,7 +353,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC104B Percussion
 
-[vrc104b.syx](patches/dx7/vrc/vrc104b.syx)
+[vrc104b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc104b.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -376,7 +376,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC105A Sound Effect
 
-[vrc105a.syx](patches/dx7/vrc/vrc105a.syx)
+[vrc105a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc105a.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -399,7 +399,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC105B Sound Effect
 
-[vrc105b.syx](patches/dx7/vrc/vrc105b.syx)
+[vrc105b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc105b.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -422,7 +422,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC106A Synthesizer
 
-[vrc106a.syx](patches/dx7/vrc/vrc106a.syx)
+[vrc106a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc106a.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -445,7 +445,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC106B Synthesizer
 
-[vrc106b.syx](patches/dx7/vrc/vrc106b.syx)
+[vrc106b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc106b.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -468,7 +468,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC107A David Bristow Selection
 
-[vrc107a.syx](patches/dx7/vrc/vrc107a.syx)
+[vrc107a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc107a.syx)
 
 | 1-16             | 17-32          |
 | ---              | ---            |
@@ -491,7 +491,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC107B David Bristow Selection
 
-[vrc107b.syx](patches/dx7/vrc/vrc107b.syx)
+[vrc107b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc107b.syx)
 
 | 1-16             | 17-32                 |
 | ---              | ---                   |
@@ -514,7 +514,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC108A Gary Leuenberger Selection
 
-[vrc108a.syx](patches/dx7/vrc/vrc108a.syx)
+[vrc108a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc108a.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -537,7 +537,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC108B Gary Leuenberger Selection
 
-[vrc108b.syx](patches/dx7/vrc/vrc108b.syx)
+[vrc108b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc108b.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -560,7 +560,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC109A Studio 64
 
-[vrc109a.syx](patches/dx7/vrc/vrc109a.syx)
+[vrc109a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc109a.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -583,7 +583,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC109B Studio 64
 
-[vrc109b.syx](patches/dx7/vrc/vrc109b.syx)
+[vrc109b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc109b.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -606,7 +606,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC110A Bo Tomlyn Selection
 
-[vrc110a.syx](patches/dx7/vrc/vrc110a.syx)
+[vrc110a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc110a.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -629,7 +629,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC110B Bo Tomlyn Selection
 
-[vrc110b.syx](patches/dx7/vrc/vrc110b.syx)
+[vrc110b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc110b.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -652,7 +652,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC111A Bo Tomlyn Selection II
 
-[vrc111a.syx](patches/dx7/vrc/vrc111a.syx)
+[vrc111a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc111a.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -675,7 +675,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC111B Bo Tomlyn Selection II
 
-[vrc111b.syx](patches/dx7/vrc/vrc111b.syx)
+[vrc111b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc111b.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -698,7 +698,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC112A Live 64 - Akira Inoue
 
-[vrc112a.syx](patches/dx7/vrc/vrc112a.syx)
+[vrc112a.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc112a.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -721,7 +721,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## VRC112B Live 64 - Akira Inoue
 
-[vrc112b.syx](patches/dx7/vrc/vrc112b.syx)
+[vrc112b.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/vrc/vrc112b.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -744,7 +744,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## GreyMatter Soundbank Disk #2
 
-[2.syx](patches/dx7/greymatter/2.syx)
+[2.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/greymatter/2.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
@@ -767,7 +767,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## GreyMatter Soundbank Disk #5
 
-[5.syx](patches/dx7/greymatter/5.syx)
+[5.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/greymatter/5.syx)
 
 | 1-16         | 17-32        |
 | ---          | ---          |
@@ -790,7 +790,7 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 
 ## GreyMatter Soundbank Disk #7
 
-[7.syx](patches/dx7/greymatter/7.syx)
+[7.syx](https://github.com/ryanwoodsmall/midiblackboxesdx7/raw/refs/heads/main/patches/dx7/greymatter/7.syx)
 
 | 1-16       | 17-32      |
 | ---        | ---        |
