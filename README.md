@@ -814,3 +814,4 @@ use with: https://bladesk.github.io/DX7II-Librarian/
 ### more
 
 - https://sounds-for-synths.com/jexus-synth-patches/
+- https://thisdx7cartdoesnotexist.com/
